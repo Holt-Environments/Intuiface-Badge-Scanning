@@ -1,0 +1,1 @@
+# Intuiface-Badge-Scanning
